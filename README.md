@@ -12,15 +12,18 @@ Remake for Android using Unity Game Engine.
  **level 3 :
  Objective :: Shoot - Down Enemies, Collect Gems, Collect JetPack, Collect Key and Go through the door using the jetpack.**
  
-![image](https://github.com/Bhuneshwar-Prasad/dangerous-dave/assets/89536767/ef758aa8-e725-420a-a046-d1e5d960f9e1)
+![image](https://github.com/Bhuneshwar-Prasad/dangerous-dave/assets/89536767/86195af8-3675-4f00-b55b-ff74b310f118)
+
 
 **Level 2 :
 Objective :: Collect Gems, Collect Key and Pass through the door. Falling into Fire / Water kills.**
 
-![image](https://github.com/Bhuneshwar-Prasad/dangerous-dave/assets/89536767/82e86064-1ddd-4384-96e3-671e3481e270)
+![image](https://github.com/Bhuneshwar-Prasad/dangerous-dave/assets/89536767/2c79544c-12f6-4790-9469-092a1a99c4d7)
+
 
 **Level 1 : 
 Objective :: Collect Gems and Pass through the door using the key.**
 
-![image](https://github.com/Bhuneshwar-Prasad/dangerous-dave/assets/89536767/d4c49688-e743-40b7-94a3-2518ce54cdbb)
+![image](https://github.com/Bhuneshwar-Prasad/dangerous-dave/assets/89536767/b9c73d20-6c11-4529-bb57-8e0e3dec58ed)
+
 
